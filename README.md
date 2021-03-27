@@ -223,5 +223,5 @@ margin-left: 20px;
 
 <!-- フッタ -->
  <footer><span class="snow">
- Copyright 2020/04/05 S.Hada
+ Copyright 2021/03/27 S.Hada
 	</span></footer>
