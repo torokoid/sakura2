@@ -179,16 +179,16 @@ margin-left: 20px;
 <p align="left"> <img src="QR_furuhashi.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 -->
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2021_03_27、park !!!</marquee></span></h1>
-<a href="20210327_001.JPG" data-lightbox="abc"><img src="20210327_001.JPG" alt="サンプル画像" width="200" /></a>
-<a href="20210327_002.JPG" data-lightbox="abc"><img src="20210327_002.JPG" alt="サンプル画像" width="200" /></a>
-<a href="20210327_003.JPG" data-lightbox="abc"><img src="20210327_003.JPG" alt="サンプル画像" width="200" /></a>
-<a href="20210327_004.JPG" data-lightbox="abc"><img src="20210327_004.JPG" alt="サンプル画像" width="200" /></a>
-<a href="20210327_005.JPG" data-lightbox="abc"><img src="20210327_005.JPG" alt="サンプル画像" width="200" /></a>
-<a href="20210327_006.JPG" data-lightbox="abc"><img src="20210327_006.JPG" alt="サンプル画像" width="200" /></a>
-<a href="20210327_007.JPG" data-lightbox="abc"><img src="20210327_007.JPG" alt="サンプル画像" width="200" /></a>
-<a href="20210327_008.JPG" data-lightbox="abc"><img src="20210327_008.JPG" alt="サンプル画像" width="200" /></a>
-<a href="20210327_009.JPG" data-lightbox="abc"><img src="20210327_009.JPG" alt="サンプル画像" width="200" /></a>
-<a href="20210327_010.JPG" data-lightbox="abc"><img src="20210327_010.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20210327_001.JPG" data-lightbox="abc"><img src="20210327_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210327_002.JPG" data-lightbox="abc"><img src="20210327_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210327_003.JPG" data-lightbox="abc"><img src="20210327_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210327_004.JPG" data-lightbox="abc"><img src="20210327_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210327_005.JPG" data-lightbox="abc"><img src="20210327_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210327_006.JPG" data-lightbox="abc"><img src="20210327_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210327_007.JPG" data-lightbox="abc"><img src="20210327_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210327_008.JPG" data-lightbox="abc"><img src="20210327_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210327_009.JPG" data-lightbox="abc"><img src="20210327_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210327_010.JPG" data-lightbox="abc"><img src="20210327_010.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210327_011.JPG" data-lightbox="abc"><img src="20210327_011.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210327_012.JPG" data-lightbox="abc"><img src="20210327_012.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210327_013.JPG" data-lightbox="abc"><img src="20210327_013.JPG" alt="サンプル画像" width="900" /></a>
